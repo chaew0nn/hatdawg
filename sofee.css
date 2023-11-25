@@ -4,13 +4,13 @@ body {
     font-family: Arial; 
     display: flex;
     align-items: center;
-    height: 500vh;
+    height: 100vh;
     background: black;
   
     }
 p{
     font-size: 15px;
-    line-height: 15px;
+    line-height: 12px;
     background-image:  url(370220439_1407517106527704_7808886499171557888_n.jpg);
     background-repeat: no-repeat;
     background-position: center;
