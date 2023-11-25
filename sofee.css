@@ -6,11 +6,11 @@ body {
     align-items: center;
     height: 1900vh;
     background: black;
-    line-height: 1.6;
+  
     }
 p{
     font-size: 15px;
-    line-height: 8px;
+    line-height: 15px;
     background-image:  url(370220439_1407517106527704_7808886499171557888_n.jpg);
     background-repeat: no-repeat;
     background-position: center;
